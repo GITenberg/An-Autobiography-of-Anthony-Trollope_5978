@@ -1,0 +1,29 @@
+_repo: An-Autobiography-of-Anthony-Trollope_5978
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Dive into the back story behind renowned British novelist Anthony Trollope's
+  rise to literary fame and glory. This autobiography offers a movingly detailed portrait
+  of Trollope's childhood, his early career missteps (including a stint as a postal
+  worker), and his blossoming literary interests and ambitions.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trollope, Anthony, 1815-1882'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcc 'PR'
+- GITenberg
+title: An Autobiography of Anthony Trollope
+url: http://www.gutenberg.org/ebooks/5978
