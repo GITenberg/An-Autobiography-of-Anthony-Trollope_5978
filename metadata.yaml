@@ -1,5 +1,8 @@
 _repo: An-Autobiography-of-Anthony-Trollope_5978
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -12,6 +15,8 @@ description: Dive into the back story behind renowned British novelist Anthony T
   rise to literary fame and glory. This autobiography offers a movingly detailed portrait
   of Trollope's childhood, his early career missteps (including a stint as a postal
   worker), and his blossoming literary interests and ambitions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5978#An-Autobiography-of-Anthony-Trollope
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
